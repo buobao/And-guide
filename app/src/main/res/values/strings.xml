@@ -11,4 +11,5 @@
     <string name="short_cuts">快捷菜单</string>
     <string name="drag_and_drop">拖放</string>
     <string name="kotin_page">Kotlin Page</string>
+    <string name="android_media">Media Page</string>
 </resources>
